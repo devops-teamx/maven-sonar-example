@@ -1,6 +1,6 @@
 This example demonstrates how to analyze a simple Java Maven project.
 
-![](https://travis-ci.org/mebusw/maven-sonar-example.svg)
+![](https://travis-ci.org/devops-teamx/maven-sonar-example.svg)
 
 Prerequisites
 =============
